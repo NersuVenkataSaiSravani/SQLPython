@@ -2,7 +2,7 @@ import mysql.connector
 #Connection = connection to database
 #Cursor = performs database operations through that connection
 connection=mysql.connector.connect(  
-      host="mysql",
+      host="databases3.crosuwuk8vh3.ap-south-1.rds.amazonaws.com",
       username="admin",
       password="rdscnt1231",
       database="databases3"
